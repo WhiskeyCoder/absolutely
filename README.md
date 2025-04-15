@@ -18,6 +18,7 @@ Perfect for large projects where import statements or file references are hard t
 ## 📂 Example Use Case
 
 You have a project folder like this:
+```
 project/ 
 ├── utils/ 
 │ └── tools.py 
@@ -25,7 +26,7 @@ project/
 │ └── sample.json 
 ├── main.py 
   └── init.py
-
+```
 
 Running `absolutely` will generate a file like this:
 
